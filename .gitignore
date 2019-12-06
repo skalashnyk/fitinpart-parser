@@ -1,0 +1,7 @@
+/node_modules/
+/all.csv
+/_all.csv
+/out/
+/build/
+/.idea/
+/fitinpart-parser.iml
